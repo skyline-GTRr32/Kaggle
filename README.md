@@ -5,7 +5,7 @@ Welcome to my Kaggle projects repository! This repo contains my solutions to var
 ## Overview
 - **Purpose**: To document and share my Kaggle journey, including data preprocessing, feature engineering, model building, and evaluation.
 - **Languages/Tools**: Primarily Python, with libraries like `numpy`, `pandas`, `scikit-learn`, etc.
-- **Future Plans**: I will add more Kaggle challenges over time, such as [list potential challenges if known, e.g., House Prices, Digit Recognizer].
+- **Future Plans**: Future Plans: I will add more Kaggle challenges over time, such as e.g., House Prices, Digit Recognizer. .
 
 ## Projects
 
