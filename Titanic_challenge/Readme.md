@@ -10,7 +10,7 @@ This repository contains my solution to the [Kaggle Titanic Challenge](https://w
 ## Files
 - `titanic_model.py`: Main script that performs data cleaning, feature engineering, model training, and generates predictions.
 - `requirements.txt`: List of Python dependencies.
-- `data/train.csv`, `data/test.csv`: Training and test datasets (download from Kaggle) 
+- `train.csv`, `test.csv`: Training and test datasets (download from Kaggle) 
 
 ## How to Run
 1. **Download the Dataset**: Get `train.csv` and `test.csv` from [Kaggle Titanic Challenge](https://www.kaggle.com/c/titanic/data).
